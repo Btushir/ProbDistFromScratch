@@ -79,7 +79,3 @@ Contributions are welcome! If you'd like to add more distributions, improve the 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adjust any details or add additional sections based on the specifics of your project. Let me know if there’s anything else you’d like to include!
