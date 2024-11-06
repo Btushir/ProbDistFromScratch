@@ -1,0 +1,4 @@
+numpy==1.24.0      # For numerical operations and handling arrays
+scipy==1.10.0      # For probability and statistical functions
+matplotlib==3.7.0  # For plotting and visualization
+jupyter==1.0.0     # To work with Jupyter notebooks if included in the project
